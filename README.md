@@ -1,5 +1,5 @@
 # lazy-calculator
-This is a calculator that can use the operators add, subtract and multiply. It supports the use of registers/variables and lazy evaluation.
+This is a calculator that can use the operators add, subtract and multiply. It supports the use of registers/variables and [lazy evaluation](https://en.wikipedia.org/wiki/Lazy_evaluation).
 
 This a simple calculator that can add, subtract and multiply values in a set of registers.
 * Any name consisting of alphanumeric characters is be allowed as register names.
